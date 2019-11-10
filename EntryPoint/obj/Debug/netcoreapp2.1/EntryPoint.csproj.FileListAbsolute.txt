@@ -1,0 +1,15 @@
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\bin\Debug\netcoreapp2.1\EntryPoint.deps.json
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\bin\Debug\netcoreapp2.1\EntryPoint.runtimeconfig.json
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\bin\Debug\netcoreapp2.1\EntryPoint.runtimeconfig.dev.json
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\bin\Debug\netcoreapp2.1\EntryPoint.dll
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\obj\Debug\netcoreapp2.1\EntryPoint.csprojAssemblyReference.cache
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\obj\Debug\netcoreapp2.1\EntryPoint.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\obj\Debug\netcoreapp2.1\EntryPoint.AssemblyInfoInputs.cache
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\obj\Debug\netcoreapp2.1\EntryPoint.AssemblyInfo.cs
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\bin\Debug\netcoreapp2.1\EntryPoint.pdb
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\obj\Debug\netcoreapp2.1\EntryPoint.dll
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\obj\Debug\netcoreapp2.1\EntryPoint.pdb
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
