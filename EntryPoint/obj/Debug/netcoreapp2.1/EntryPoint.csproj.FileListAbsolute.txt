@@ -5,7 +5,6 @@ C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\bin\Debug\netcore
 C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\bin\Debug\netcoreapp2.1\EntryPoint.runtimeconfig.dev.json
 C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\bin\Debug\netcoreapp2.1\EntryPoint.dll
 C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\obj\Debug\netcoreapp2.1\EntryPoint.csprojAssemblyReference.cache
-C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\obj\Debug\netcoreapp2.1\EntryPoint.csproj.CoreCompileInputs.cache
 C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\obj\Debug\netcoreapp2.1\EntryPoint.AssemblyInfoInputs.cache
 C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\obj\Debug\netcoreapp2.1\EntryPoint.AssemblyInfo.cs
 C:\Users\Michal\Dropbox\AutomatedTesting\AktualneCZ\EntryPoint\bin\Debug\netcoreapp2.1\EntryPoint.pdb
